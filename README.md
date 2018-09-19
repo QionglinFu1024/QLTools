@@ -8,3 +8,9 @@
 - 使用Cycript监听APP，通过@import导入mjcript
 
 ### 用法，可以打开qlcript.cy文件
+
+# python-client
+usb连接
+
+
+
