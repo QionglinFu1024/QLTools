@@ -12,5 +12,6 @@
 # python-client
 usb连接
 
-
+# .inputrc
+解决手机无法输入中文问题
 
